@@ -3,7 +3,5 @@ import org.junit.runner.*;
 
 @RunWith(Karate.class)
 
-
-
 public class FeatureRunner {
 }
